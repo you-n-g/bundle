@@ -1,0 +1,9 @@
+[submodule "nerdtree"]
+	path = nerdtree
+	url = https://github.com/scrooloose/nerdtree
+[submodule "command-t"]
+	path = command-t
+	url = https://github.com/wincent/command-t
+[submodule "tagbar"]
+	path = tagbar
+	url = https://github.com/majutsushi/tagbar
