@@ -16,3 +16,6 @@
 [submodule "YouCompleteMe"]
 	path = YouCompleteMe
 	url = https://github.com/Valloric/YouCompleteMe.git
+[submodule "tcomment_vim"]
+	path = tcomment_vim
+	url = https://github.com/tomtom/tcomment_vim
