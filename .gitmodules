@@ -25,3 +25,6 @@
 [submodule "vim-flake8"]
 	path = vim-flake8
 	url = https://github.com/nvie/vim-flake8
+[submodule "vim-slime"]
+	path = vim-slime
+	url = https://github.com/jpalardy/vim-slime
