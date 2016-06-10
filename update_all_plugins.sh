@@ -6,7 +6,7 @@ cd $DIR
 
 for d in `find . -maxdepth 1 -type d  | grep -v '.git\$' | grep -v '^.$'` ; do
     cd $DIR/$d
-    git pull -u
+    git pull
     git checkout master
 done
 
